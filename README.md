@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsimrat Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate computer engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viceroy03&label=Profile%20views&color=0e75b6&style=flat" alt="viceroy03" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viceroy03" alt="viceroy03" /></a> </p>
+- 📫 How to reach me **singhharsimrat03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viceroy03&show_icons=true&locale=en" alt="viceroy03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viceroy03&" alt="viceroy03" /></p>
-
